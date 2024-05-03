@@ -1,0 +1,12 @@
+{
+  "name": "sandcastle",
+  "version": "1.0.0",
+  "description": "a sand castle that is formed from all the sand boxes that will be ini it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
