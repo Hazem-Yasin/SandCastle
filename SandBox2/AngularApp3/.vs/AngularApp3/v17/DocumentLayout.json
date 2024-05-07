@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90F95A79-3358-4FB1-A1E7-CD15E8FC3E28}|angularapp3.client\\angularapp3.client.esproj|c:\\users\\hazem\\onedrive\\documents\\github\\sandcastle\\sandbox2\\angularapp3\\angularapp3.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{90F95A79-3358-4FB1-A1E7-CD15E8FC3E28}|angularapp3.client\\angularapp3.client.esproj|solutionrelative:angularapp3.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F26760F-FE3B-453A-AC83-84C005CFB2B3}|AngularApp3.Server\\AngularApp3.Server.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\sandcastle\\sandbox2\\angularapp3\\angularapp3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F26760F-FE3B-453A-AC83-84C005CFB2B3}|AngularApp3.Server\\AngularApp3.Server.csproj|solutionrelative:angularapp3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\angularapp3.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "angularapp3.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\angularapp3.client\\src\\main.ts",
+              "RelativeToolTip": "angularapp3.client\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-06T21:17:43.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\AngularApp3.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp3.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\AngularApp3.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp3.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:13:32.828Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

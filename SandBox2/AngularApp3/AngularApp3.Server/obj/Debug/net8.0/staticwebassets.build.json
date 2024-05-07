@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "LJHChKVGFgPs7afMYfFYLPtkWdrPPZtYd4d2vRL0R/A=",
+  "Source": "AngularApp3.Server",
+  "BasePath": "_content/AngularApp3.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\SandCastle\\SandBox2\\AngularApp3\\angularapp3.client\\angularapp3.client.esproj",
+      "Version": 2,
+      "Source": "angularapp3.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
