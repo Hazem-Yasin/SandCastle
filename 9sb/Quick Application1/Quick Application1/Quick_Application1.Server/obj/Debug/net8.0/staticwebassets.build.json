@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "5t4XfgbIc58BMOFHLX5ckSjNlRwaxfI6gckhPxqP+cU=",
+  "Source": "Quick_Application1.Server",
+  "BasePath": "_content/Quick_Application1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\9sb\\Quick Application1\\Quick Application1\\Quick_Application1.client\\Quick_Application1.client.esproj",
+      "Version": 2,
+      "Source": "Quick_Application1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

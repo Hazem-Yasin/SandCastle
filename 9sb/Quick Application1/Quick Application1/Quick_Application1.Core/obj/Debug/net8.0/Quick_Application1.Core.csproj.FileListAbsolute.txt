@@ -1,0 +1,13 @@
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\bin\Debug\net8.0\Quick_Application1.Core.deps.json
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\bin\Debug\net8.0\Quick_Application1.Core.dll
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\bin\Debug\net8.0\Quick_Application1.Core.pdb
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.csproj.AssemblyReference.cache
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.AssemblyInfoInputs.cache
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.AssemblyInfo.cs
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.csproj.CoreCompileInputs.cache
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.sourcelink.json
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.dll
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\refint\Quick_Application1.Core.dll
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\Quick_Application1.Core.pdb
+C:\Users\hazem\Documents\GitHub\SandCastle\9sb\Quick Application1\Quick Application1\Quick_Application1.Core\obj\Debug\net8.0\ref\Quick_Application1.Core.dll
