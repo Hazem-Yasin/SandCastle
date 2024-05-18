@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TodoApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\WeatherForecast.cs",
+              "RelativeToolTip": "TodoApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:48:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:48:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:48:40.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
