@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\models\\todoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|c:\\users\\hazem\\documents\\github\\sandcastle\\todoapi\\todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C881F1B1-BC88-4DAF-B05C-959334BE04B1}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TodooContext.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Models\\TodooContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodooContext.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Models\\TodooContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodooContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:01:42.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T04:54:50.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TodoApi\\WeatherForecast.cs",
@@ -55,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\WeatherForecastController.cs",
@@ -74,10 +112,22 @@
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
               "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\Program.cs",
               "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T18:48:40.559Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoApi.csproj",
+              "DocumentMoniker": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "C:\\Users\\hazem\\Documents\\GitHub\\SandCastle\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T04:54:15.315Z"
             }
           ]
         }
