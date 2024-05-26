@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\CustomerPortal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj"
+              },
+              "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\CustomerPortal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\CustomerPortal.csproj",
+        "projectName": "CustomerPortal",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\CustomerPortal.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

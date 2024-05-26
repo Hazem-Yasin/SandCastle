@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\bin\Debug\net7.0\BOL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\bin\Debug\net7.0\BOL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.csproj.Up2Date
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\DAL\obj\Debug\net7.0\ref\DAL.dll

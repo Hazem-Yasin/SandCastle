@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA240125-10A1-425C-8128-233D7BC00A7A}|BOL\\BOL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\bol\\databaseentities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA240125-10A1-425C-8128-233D7BC00A7A}|BOL\\BOL.csproj|solutionrelative:bol\\databaseentities\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA240125-10A1-425C-8128-233D7BC00A7A}|BOL\\BOL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\bol\\databaseentities\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA240125-10A1-425C-8128-233D7BC00A7A}|BOL\\BOL.csproj|solutionrelative:bol\\databaseentities\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\bll\\logicservices\\istudentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|solutionrelative:bll\\logicservices\\istudentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\bll\\logicservices\\studentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|solutionrelative:bll\\logicservices\\studentslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EB74C76-4C21-4D71-99EE-C4758797D438}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48205023-0F92-44EB-8139-39FAF28388DB}|CustomerPortal\\CustomerPortal.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\customerportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48205023-0F92-44EB-8139-39FAF28388DB}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48205023-0F92-44EB-8139-39FAF28388DB}|CustomerPortal\\CustomerPortal.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\14-noorcodelogicntierproject\\universityproject\\customerportal\\views\\students\\studentslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48205023-0F92-44EB-8139-39FAF28388DB}|CustomerPortal\\CustomerPortal.csproj|solutionrelative:customerportal\\views\\students\\studentslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\DataBaseEntities\\Students.cs",
+              "RelativeDocumentMoniker": "BOL\\DataBaseEntities\\Students.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\DataBaseEntities\\Students.cs",
+              "RelativeToolTip": "BOL\\DataBaseEntities\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:33:15.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\DataBaseEntities\\Courses.cs",
+              "RelativeDocumentMoniker": "BOL\\DataBaseEntities\\Courses.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BOL\\DataBaseEntities\\Courses.cs",
+              "RelativeToolTip": "BOL\\DataBaseEntities\\Courses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:33:14.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\LogicServices\\IStudentsLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicServices\\IStudentsLogic.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\LogicServices\\IStudentsLogic.cs",
+              "RelativeToolTip": "BLL\\LogicServices\\IStudentsLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:16:04.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsLogic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\LogicServices\\StudentsLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicServices\\StudentsLogic.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\LogicServices\\StudentsLogic.cs",
+              "RelativeToolTip": "BLL\\LogicServices\\StudentsLogic.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:15:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T13:14:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsList.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\Views\\Students\\StudentsList.cshtml",
+              "RelativeDocumentMoniker": "CustomerPortal\\Views\\Students\\StudentsList.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\Views\\Students\\StudentsList.cshtml",
+              "RelativeToolTip": "CustomerPortal\\Views\\Students\\StudentsList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T13:13:06.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "CustomerPortal\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\14-noorCodeLogicNtierProject\\UniversityProject\\CustomerPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "CustomerPortal\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:11:16.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

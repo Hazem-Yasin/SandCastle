@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.sourcelink.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\14-noorCodeLogicNtierProject\UniversityProject\BOL\obj\Debug\net7.0\ref\BOL.dll

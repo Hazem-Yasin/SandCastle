@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreeTierProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e39ea6076053f314ada015308db0dc7d0b62c4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreeTierProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreeTierProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
