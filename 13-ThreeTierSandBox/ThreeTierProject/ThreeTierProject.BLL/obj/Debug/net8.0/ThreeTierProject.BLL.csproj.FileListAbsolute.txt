@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\bin\Debug\net8.0\ThreeTierProject.BLL.exe
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\bin\Debug\net8.0\ThreeTierProject.BLL.deps.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\bin\Debug\net8.0\ThreeTierProject.BLL.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\bin\Debug\net8.0\ThreeTierProject.BLL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\bin\Debug\net8.0\ThreeTierProject.BLL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.sourcelink.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\refint\ThreeTierProject.BLL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ThreeTierProject.BLL.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreeTierProject.BLL\obj\Debug\net8.0\ref\ThreeTierProject.BLL.dll

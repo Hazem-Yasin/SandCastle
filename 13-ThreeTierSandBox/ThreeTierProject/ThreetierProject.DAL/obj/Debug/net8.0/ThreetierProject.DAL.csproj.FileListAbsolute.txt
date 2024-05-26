@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\bin\Debug\net8.0\ThreetierProject.DAL.exe
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\bin\Debug\net8.0\ThreetierProject.DAL.deps.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\bin\Debug\net8.0\ThreetierProject.DAL.runtimeconfig.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\bin\Debug\net8.0\ThreetierProject.DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\bin\Debug\net8.0\ThreetierProject.DAL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.sourcelink.json
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\refint\ThreetierProject.DAL.dll
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.pdb
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ThreetierProject.DAL.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documents\Intern SandBox\SandCastle\13-ThreeTierSandBox\ThreeTierProject\ThreetierProject.DAL\obj\Debug\net8.0\ref\ThreetierProject.DAL.dll

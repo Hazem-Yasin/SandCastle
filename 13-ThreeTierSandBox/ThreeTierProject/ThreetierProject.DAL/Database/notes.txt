@@ -1,0 +1,9 @@
+﻿what to find the Database folder in the DAL project ?
+1. Database context 
+2. Entity framework migrations 
+3. Entity Configruation
+4. Stored Procedures
+5. SQL Scripts 
+6. Database Connection Managment 
+7. Database Transactions
+8. ORM Configurations

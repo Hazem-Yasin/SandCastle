@@ -1,0 +1,10 @@
+﻿Mapping to Database Values: Enums are sometimes used to map between database values and application logic. For example, you might store the integer value of an enum in the database, representing different states or types.
+
+
+Enums in the BLL provide a way to represent and manage domain-specific constants and states, making the code more expressive and easier to maintain. They help enforce consistency and reduce the likelihood of errors due to magic strings or arbitrary integer values.
+
+
+
+
+
+
