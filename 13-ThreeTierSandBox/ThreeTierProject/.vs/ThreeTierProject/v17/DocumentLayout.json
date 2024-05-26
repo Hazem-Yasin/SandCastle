@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\13-ThreeTierSandBox\\ThreeTierProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38EB7847-423F-4F2F-B178-823E7C13BDEB}|ThreeTierProject.BLL\\ThreeTierProject.BLL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\13-threetiersandbox\\threetierproject\\threetierproject.bll\\services\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EB7847-423F-4F2F-B178-823E7C13BDEB}|ThreeTierProject.BLL\\ThreeTierProject.BLL.csproj|solutionrelative:threetierproject.bll\\services\\notes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ADCFDBD-FF25-4033-96F3-F3E496C5B159}|ThreetierProject.DAL\\ThreetierProject.DAL.csproj|c:\\users\\user\\onedrive\\documents\\intern sandbox\\sandcastle\\13-threetiersandbox\\threetierproject\\threetierproject.dal\\entities\\notes.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4ADCFDBD-FF25-4033-96F3-F3E496C5B159}|ThreetierProject.DAL\\ThreetierProject.DAL.csproj|solutionrelative:threetierproject.dal\\entities\\notes.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -40,14 +44,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "notes.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\13-ThreeTierSandBox\\ThreeTierProject\\ThreeTierProject.BLL\\Services\\notes.cs",
+              "RelativeDocumentMoniker": "ThreeTierProject.BLL\\Services\\notes.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\13-ThreeTierSandBox\\ThreeTierProject\\ThreeTierProject.BLL\\Services\\notes.cs",
+              "RelativeToolTip": "ThreeTierProject.BLL\\Services\\notes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:13:01.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "notes.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\13-ThreeTierSandBox\\ThreeTierProject\\ThreetierProject.DAL\\Entities\\notes.cs",
               "RelativeDocumentMoniker": "ThreetierProject.DAL\\Entities\\notes.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\Intern SandBox\\SandCastle\\13-ThreeTierSandBox\\ThreeTierProject\\ThreetierProject.DAL\\Entities\\notes.cs",
               "RelativeToolTip": "ThreetierProject.DAL\\Entities\\notes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T11:39:02.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T11:39:02.821Z"
             }
           ]
         }

@@ -1,0 +1,11 @@
+Solution
+├── Presentation (Web API Project)
+│   └── Controllers
+├── BusinessLogic (Class Library)
+│   ├── Interfaces
+│   ├── Services
+│   └── DTOs
+├── DataAccess (Class Library)
+│   ├── Entities
+│   ├── Repositories
+│   └── Contexts
