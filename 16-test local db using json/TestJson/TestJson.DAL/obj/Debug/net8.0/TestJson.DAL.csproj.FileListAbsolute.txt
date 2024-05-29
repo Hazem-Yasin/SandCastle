@@ -1,0 +1,12 @@
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\bin\Debug\net8.0\TestJson.DAL.deps.json
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\bin\Debug\net8.0\TestJson.DAL.dll
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\bin\Debug\net8.0\TestJson.DAL.pdb
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.AssemblyInfoInputs.cache
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.AssemblyInfo.cs
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.csproj.CoreCompileInputs.cache
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.sourcelink.json
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.dll
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\refint\TestJson.DAL.dll
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\TestJson.DAL.pdb
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.DAL\obj\Debug\net8.0\ref\TestJson.DAL.dll

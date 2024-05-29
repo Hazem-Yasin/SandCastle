@@ -1,0 +1,5 @@
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.BLL\obj\Debug\net8.0\TestJson.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.BLL\obj\Debug\net8.0\TestJson.BLL.AssemblyInfoInputs.cache
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.BLL\obj\Debug\net8.0\TestJson.BLL.AssemblyInfo.cs
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.BLL\obj\Debug\net8.0\TestJson.BLL.csproj.CoreCompileInputs.cache
+D:\InternSandbox\GithubHazemYasin\SandCastle\16-test local db using json\TestJson\TestJson.BLL\obj\Debug\net8.0\TestJson.BLL.sourcelink.json
