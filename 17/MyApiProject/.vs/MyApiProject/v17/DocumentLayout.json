@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|d:\\internsandbox\\githubhazemyasin\\sandcastle\\17\\myapiproject\\myapiproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|d:\\internsandbox\\githubhazemyasin\\sandcastle\\17\\myapiproject\\myapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|d:\\internsandbox\\githubhazemyasin\\sandcastle\\17\\myapiproject\\myapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1664CCD9-043F-47CB-8B23-EAD5F7C7E7BA}|MyApiProject\\MyApiProject.csproj|solutionrelative:myapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,67 +46,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyApiProject\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyApiProject\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T13:23:26.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Program.cs",
-              "RelativeDocumentMoniker": "MyApiProject\\Program.cs",
-              "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Program.cs",
-              "RelativeToolTip": "MyApiProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T13:20:08.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "data.json",
-              "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Data\\data.json",
-              "RelativeDocumentMoniker": "MyApiProject\\Data\\data.json",
-              "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Data\\data.json",
-              "RelativeToolTip": "MyApiProject\\Data\\data.json",
-              "ViewState": "AQIAAKkDAAAAAAAAAAAAALADAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T13:19:43.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ItemsController.cs",
               "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Controllers\\ItemsController.cs",
               "RelativeDocumentMoniker": "MyApiProject\\Controllers\\ItemsController.cs",
               "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "MyApiProject\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T13:19:29.358Z",
+              "WhenOpened": "2024-05-30T09:23:40.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Models\\Item.cs",
               "RelativeDocumentMoniker": "MyApiProject\\Models\\Item.cs",
               "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Models\\Item.cs",
               "RelativeToolTip": "MyApiProject\\Models\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T13:18:51.959Z",
+              "WhenOpened": "2024-05-30T09:23:39.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyApiProject\\Program.cs",
+              "ToolTip": "D:\\InternSandbox\\GithubHazemYasin\\SandCastle\\17\\MyApiProject\\MyApiProject\\Program.cs",
+              "RelativeToolTip": "MyApiProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:23:30.287Z",
               "EditorCaption": ""
             }
           ]
