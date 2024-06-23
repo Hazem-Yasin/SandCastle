@@ -1,12 +1,9 @@
-function addUpTo(n){
-    let total = 0; 
-    for (let i = 1; i <= n; i++){
-        total += i;
-    }
-    return total;
+//TODO: start section 3 
+let instructor = {
+    firstName: "Hazem",
+    isInstructor: true,
+    favoriteNumber: [3,5,6,2]
 }
-
-let t1 = performance.now();
-addUpTo(1000000000);
-let t2 = performance.now();
-console.log(`Time Elapsed: ${t2 - t1} / 1000} seconds`);
+console.log(instructor.firstName);
+console.log(instructor);
+console.log("testing attention");   
